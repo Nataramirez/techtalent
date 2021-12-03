@@ -1,0 +1,15 @@
+.pagination {
+    
+    display: flex;
+    list-style-type: none;
+    margin: 10px 580px 10px;
+    
+}
+
+
+a:link, a:visited {
+    text-decoration: none;
+    margin: 0px 10px 0px 10px;
+    color: #333333;    
+    
+}

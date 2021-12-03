@@ -1,0 +1,221 @@
+.card-bg {
+    max-height: 452px;
+    max-width: 333px;
+    box-shadow: 10px 10px 20px 0 rgba(0,0,0,0.1);
+    margin: 130px 25px 0px 0px;
+}
+
+.foto-auto {
+    height: 133px;
+  width: 204.34px;
+  position: absolute;
+  border: none;
+  margin: 0px 98.66px 319px 30px;
+  filter: brightness(1.1);
+  mix-blend-mode: multiply;
+
+}
+
+.logo-company {
+    height: 28.8px;
+  width: 68.856px;
+  position: absolute;
+  margin: 142px 0px 0px 41px;
+}
+
+.card {
+    height: 386px;
+    width: 333px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    margin: 66px 0px 0px 0px;
+  
+    
+}
+
+.treinta {
+  color: #333333;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 19px;
+  display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.rectangle {
+    height: 27px;
+  width: 74px;
+  border-radius: 13.5px;
+  background-color: #FDD008;
+  position: absolute;
+  margin: 84px 0px 0px 243px;
+}
+
+.category {
+    height: 29px;
+  width: 101px;
+  color: #333333;
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: 950;
+  letter-spacing: 0;
+  line-height: 29px;
+  border: none;
+  position: absolute;
+  margin: 176.52px 0px 0px 41px;
+}
+
+.model {
+    height: 19px;
+    width: 171px;
+    color: #999999;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 19px;
+    border: none;
+    position: absolute;
+    margin: 208.43px 0px 0px 41px;
+
+}
+
+.icon {
+  height: 16px;
+  width: 17px;
+  color: #141284;
+ 
+}
+
+.icon-passengers {
+  position: absolute;
+  margin: 209px 275px 182px 41px;
+}
+
+.icon-doors {
+  position: absolute;
+  margin: 209px 229px 182px 90px;
+}
+
+.icon-day {
+  position: absolute;
+  margin: 209px 186.38px 182px 136.06px;
+}
+
+.icon-car {
+  height: 40px;
+  width: 50px;
+  position: absolute;
+  margin: 238px 0px 0px 45.5px;
+  z-index: 40;
+  color: white;
+  font-size: 35px;
+
+}
+
+.shape {
+  height: 19px;
+  width: 10px;
+  color: #999999;
+  font-family: Lato;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+}
+
+.shape-passengers {
+  margin: 207.54px 258.5px 182px 64.5px;
+  position: absolute;
+}
+
+.shape-doors {
+  margin: 207.54px 212.5px 182px 110.5px;
+  position: absolute;
+}
+
+.shape-days {
+  margin: 207.54px 212.5px 182px 153.5px;
+  position: absolute;
+}
+
+.rectangle-car {
+  height: 47px;
+  width: 47px;
+  border-radius: 5px;
+  background-color: #141284;
+  z-index: 10;
+  position: absolute;
+  margin: 235px 212.5px 182px 40px;
+}
+
+.hr {
+  box-sizing: border-box;
+  height: 1px;
+  width: 334px;
+  border: 1px solid #DBDBDB;
+  position: absolute;
+  margin: 250px 0px 0px 0px;
+  
+}
+
+.dailyRate {
+  height: 29px;
+  width: 129px;
+  color: #141284;
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 29px;
+  position: absolute;
+  margin: 265px 0px 0px 190px;
+}
+
+.dia {
+  height: 15px;
+  width: 22px;
+  color: #999999;
+  font-family: Lato;
+  font-size: 12px;
+  font-style: italic;
+  letter-spacing: 0;
+  line-height: 15px;
+}
+
+.totalRate {
+  height: 15px;
+  width: 100px;
+  color: #333333;
+  font-family: Lato;
+  font-size: 12px;
+  font-style: italic;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  margin: 290px 0px 0px 213px;
+}
+
+.btn-reservar {
+  height: 44px;
+  width: 292px;
+  border-radius: 22px;
+  background-color: #141284;
+  position: absolute;
+  margin: 325px 0px 0px 22px;
+}
+
+.text-reservar {
+  
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+}
