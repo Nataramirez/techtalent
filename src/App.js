@@ -35,7 +35,6 @@ function App() {
     <main className="bg">
       <header>
         <p className="hola-pedro">Hola Pedro,</p>
-        <p className="hola-pedro">Hola Pedro,</p>
         <p className="ahorra-hasta-un-30">Ahorra hasta un 30% agregando un auto en tu viaje a Chicago</p>
       </header>
 
