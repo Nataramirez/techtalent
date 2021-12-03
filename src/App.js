@@ -49,6 +49,7 @@ function App() {
               />
             )
           }) : <h2 className="loading">Loading...</h2>
+            
         }
 
       </section>

@@ -37,6 +37,7 @@ function Card({ imageCar, imageCompany, category, model, passengers, doors, dail
                     <FontAwesomeIcon icon={faCar} className="icon-car" />
                     <div className="rectangle-car"></div>
                     <hr className="hr" />
+                    
                 </div>
                 <div>
                     <p className="dailyRate">{`USD ${dailyRate}`}<span className="dia"> /dia</span></p>

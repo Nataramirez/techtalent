@@ -7,7 +7,7 @@ const Pagination = ({ carsPerPage, totalCars, paginate }) => {
     for (let i = 1; i <= Math.ceil(totalCars / carsPerPage); i++) {
         pageNumbers.push(i)
     }
-    console.log(pageNumbers)
+    
     return (
 
         <ul className="pagination">
